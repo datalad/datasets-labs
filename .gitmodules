@@ -1,3 +1,6 @@
 [submodule "mitchell"]
 	path = mitchell
 	url = ./mitchell
+[submodule "haxby"]
+	path = haxby
+	url = ./haxby
