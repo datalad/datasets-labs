@@ -9,9 +9,25 @@
       "type": "Dataset"
     },
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2016-09-27T10:33:32-04:00",
+    "dcterms:modified": "2016-10-11T00:01:37-04:00",
     "type": "Dataset",
-    "version": "0b6f3dcaec24b2904229956b700eccf32be7f74c"
+    "version": "c88cc545a2454beb5b934cf3e725386c8c8e4c45"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "01cfb952-8439-11e6-af53-002590f97d84",
+    "author": [
+      "J. Swaroop Guntupalli",
+      "Yaroslav O. Halchenko",
+      "James V. Haxby"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io"
+    ],
+    "license": "PDDL",
+    "name": "Haxby Lab (http://haxbylab.dartmouth.edu) Datasets",
+    "type": "Dataset"
   },
   {
     "@context": "http://schema.org/",

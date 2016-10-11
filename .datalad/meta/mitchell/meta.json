@@ -9,9 +9,9 @@
       "type": "Dataset"
     },
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2016-09-14T23:29:26-04:00",
+    "dcterms:modified": "2016-10-11T00:05:25-04:00",
     "type": "Dataset",
-    "version": "ee917e9a43f62fc5806b70e35a550d0d5ee43729"
+    "version": "e3f030342b05658799f56a3dfe6a8dd469b46d19"
   },
   {
     "@context": "http://schema.org/",
@@ -26,8 +26,7 @@
       "fMRI",
       "Machine Learning"
     ],
-    "name": "mitchell",
-    "title": "Datasets from Tom Mitchell's lab",
+    "name": "Mitchell Lab Datasets",
     "type": "Dataset"
   },
   {
