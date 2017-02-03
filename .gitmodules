@@ -4,3 +4,6 @@
 [submodule "haxby"]
 	path = haxby
 	url = ./haxby
+[submodule "tarr"]
+	path = tarr
+	url = ./tarr
