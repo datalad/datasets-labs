@@ -1,20 +1,21 @@
 [
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:hasPart": {
-      "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
-      "location": "science2008",
-      "type": "Dataset"
-    },
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2016-10-11T00:05:25-04:00",
+    "dcterms:modified": "2017-02-03T16:41:15-05:00",
     "type": "Dataset",
-    "version": "e3f030342b05658799f56a3dfe6a8dd469b46d19"
+    "version": "acc80560d93335ed05822ad5dc7b31f2f7d93309"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
     "author": "Tom Mitchell",
     "dcterms:conformsTo": [
@@ -26,11 +27,25 @@
       "fMRI",
       "Machine Learning"
     ],
-    "name": "Mitchell Lab Datasets",
-    "type": "Dataset"
+    "name": "Mitchell Lab Datasets"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
+      "location": "science2008"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
     "availableFrom": [
       {
@@ -48,12 +63,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2016-09-14T23:29:26-04:00",
+    "dcterms:modified": "2017-02-03T16:41:14-05:00",
     "type": "Dataset",
-    "version": "a1bb3002c54bf80281ed5929350e60289e140670"
+    "version": "514aa4adba188c468fbdcc2212599cbca27ca91f"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
     "author": "Tom M. Mitchell, Svetlana V. Shinkareva, Andrew Carlson, Kai-Min Chang, Vicente L. Malave, Robert A. Mason, Marcel Adam Just",
     "dcterms:conformsTo": [
@@ -66,7 +84,14 @@
       "Semantics"
     ],
     "name": "mitchell/science2008",
-    "title": "Supplemental materials for 'Predicting Human Brain Activity Associated with the Meanings of Nouns'",
-    "type": "Dataset"
+    "title": "Supplemental materials for 'Predicting Human Brain Activity Associated with the Meanings of Nouns'"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]

@@ -1,0 +1,72 @@
+[
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
+    "dcterms:modified": "2017-02-03T16:41:18-05:00",
+    "type": "Dataset",
+    "version": "49514f9771618eb17f595aee3db7215ed7ab35ca"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
+    "author": "Michael J. Tarr",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "keywords": [
+      "Human Vision"
+    ],
+    "name": "Tarr Lab Datasets"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "1ff928ae-ea56-11e6-92ba-002590f97d84",
+      "location": "face_place"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "1ff928ae-ea56-11e6-92ba-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "64841f3b-650b-4489-856e-aff3c6286af3",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "f189041e-bdbf-488a-961a-ea7b6dcec86b",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/tarr/face_place"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
+    "dcterms:modified": "2017-02-03T16:41:17-05:00",
+    "type": "Dataset",
+    "version": "db2ac5813b9a714d9e0d1f7cdba21f044c71a690"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "1ff928ae-ea56-11e6-92ba-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  }
+]
