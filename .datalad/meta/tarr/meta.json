@@ -7,9 +7,9 @@
     "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-02-03T16:41:18-05:00",
+    "dcterms:modified": "2017-02-03T16:50:03-05:00",
     "type": "Dataset",
-    "version": "49514f9771618eb17f595aee3db7215ed7ab35ca"
+    "version": "f96ebec7e1c68fdba4f5c99987273303407bee1a"
   },
   {
     "@context": {
@@ -57,9 +57,30 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
-    "dcterms:modified": "2017-02-03T16:41:17-05:00",
+    "dcterms:modified": "2017-02-03T16:50:02-05:00",
     "type": "Dataset",
-    "version": "db2ac5813b9a714d9e0d1f7cdba21f044c71a690"
+    "version": "b8ee88bc22004e612e314d3b7ea3b29d1147245f"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "1ff928ae-ea56-11e6-92ba-002590f97d84",
+    "author": "Righi, G., Peissig, J. J., & Tarr, M. J.",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "description": "This database includes multiple images for over 200 individuals of many different races with consistent lighting, multiple views, real emotions, and disguises (and some participants returned for a second session several weeks later with a haircut, or a new beard, etc.).  Originally from http://wiki.cnbc.cmu.edu/Face_Place. These images were used in: Righi, G., Peissig, J. J., & Tarr, M. J. (2012). Recognizing disguised faces. Visual Cognition, 20(2), 143-169. doi:10.1080/13506285.2012.654624",
+    "keywords": [
+      "faces"
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"
+    ],
+    "name": "face-place",
+    "title": "Disguised faces study dataset"
   },
   {
     "@context": {
