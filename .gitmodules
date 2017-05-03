@@ -7,3 +7,6 @@
 [submodule "tarr"]
 	path = tarr
 	url = ./tarr
+[submodule "gobbini"]
+	path = gobbini
+	url = ./gobbini
