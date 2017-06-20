@@ -7,9 +7,9 @@
     "@id": "7944fa62-301c-11e7-8784-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-05-05T16:02:18-04:00",
+    "dcterms:modified": "2017-06-20T17:50:54-04:00",
     "type": "Dataset",
-    "version": "61a9fddb1ad596d3b0484ffe6843d824ee132da1"
+    "version": "0482c25264b5a6a5e68f5756f432ddade4691743"
   },
   {
     "@context": {
@@ -48,9 +48,9 @@
     "@id": "fe961fb6-301c-11e7-b6cc-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "7944fa62-301c-11e7-8784-002590f97d84",
-    "dcterms:modified": "2017-05-05T16:02:17-04:00",
+    "dcterms:modified": "2017-05-12T15:35:08-04:00",
     "type": "Dataset",
-    "version": "b7726ae7485dbe828289ad0d18a840f22f5cd643"
+    "version": "13475aefeddae253774d872a954870f996022e98"
   },
   {
     "@context": {
