@@ -7,25 +7,9 @@
     "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-05-05T16:02:25-04:00",
+    "dcterms:modified": "2017-08-12T13:22:27-04:00",
     "type": "Dataset",
-    "version": "af2cb92baaef7d07743502d7a01f17a3a9b90bd8"
-  },
-  {
-    "@context": {
-      "@vocab": "http://schema.org/",
-      "doap": "http://usefulinc.com/ns/doap#"
-    },
-    "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
-    "author": "Michael J. Tarr",
-    "dcterms:conformsTo": [
-      "http://specs.frictionlessdata.io/data-packages",
-      "http://docs.datalad.org/metadata.html#v0-1"
-    ],
-    "keywords": [
-      "Human Vision"
-    ],
-    "name": "Tarr Lab Datasets"
+    "version": "d59c39ec56c50f9bb07be193fa5a2ecbf609128d"
   },
   {
     "@context": {

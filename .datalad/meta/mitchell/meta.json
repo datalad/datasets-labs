@@ -7,27 +7,9 @@
     "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-05-05T16:02:22-04:00",
+    "dcterms:modified": "2017-08-12T13:22:25-04:00",
     "type": "Dataset",
-    "version": "e3e4597d820aec5e92016dca4545cf4e30c17c2b"
-  },
-  {
-    "@context": {
-      "@vocab": "http://schema.org/",
-      "doap": "http://usefulinc.com/ns/doap#"
-    },
-    "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
-    "author": "Tom Mitchell",
-    "dcterms:conformsTo": [
-      "http://specs.frictionlessdata.io/data-packages",
-      "http://docs.datalad.org/metadata.html#v0-1"
-    ],
-    "keywords": [
-      "MRI",
-      "fMRI",
-      "Machine Learning"
-    ],
-    "name": "Mitchell Lab Datasets"
+    "version": "749f5484028923a403143f6a73d9942c5e520cdc"
   },
   {
     "@context": {
