@@ -7,9 +7,26 @@
     "@id": "7944fa62-301c-11e7-8784-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-08-12T13:22:22-04:00",
+    "dcterms:modified": "2017-08-12T13:29:00-04:00",
     "type": "Dataset",
-    "version": "e674d6e7c83137d1030006a330f32ff190eca73d"
+    "version": "73e9ff8d58d041bfe1c6a114c2b833958ff8acb9"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7944fa62-301c-11e7-8784-002590f97d84",
+    "author": [
+      "Yaroslav O. Halchenko",
+      "Matteo Visconti di Oleggio Castello"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io"
+    ],
+    "license": "PDDL",
+    "name": "Gobbini Lab (http://sites.dartmouth.edu/personperceptionlab/) Datasets"
   },
   {
     "@context": {

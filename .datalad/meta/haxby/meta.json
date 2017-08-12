@@ -7,9 +7,27 @@
     "@id": "01cfb952-8439-11e6-af53-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-08-12T13:22:23-04:00",
+    "dcterms:modified": "2017-08-12T13:29:57-04:00",
     "type": "Dataset",
-    "version": "2d66b80f89a9adf02d83ea8ed1335d48e97cf028"
+    "version": "704c550e33a18cbd2de22562adf97c6ad5fb1b7f"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "01cfb952-8439-11e6-af53-002590f97d84",
+    "author": [
+      "J. Swaroop Guntupalli",
+      "Yaroslav O. Halchenko",
+      "James V. Haxby"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io"
+    ],
+    "license": "PDDL",
+    "name": "Haxby Lab (http://haxbylab.dartmouth.edu) Datasets"
   },
   {
     "@context": {
@@ -55,9 +73,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
-    "dcterms:modified": "2017-05-05T16:02:19-04:00",
+    "dcterms:modified": "2017-08-12T13:29:36-04:00",
     "type": "Dataset",
-    "version": "2b279985fc4c793108a1db2cfee58d45f728ec8c"
+    "version": "c0c50911f13dac30429cec5c8294989df188cacc"
   },
   {
     "@context": {
@@ -111,9 +129,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
-    "dcterms:modified": "2017-06-20T17:50:56-04:00",
+    "dcterms:modified": "2017-08-12T13:29:18-04:00",
     "type": "Dataset",
-    "version": "933f9de5a2d6b0abdb584c4153680eb5c85af325"
+    "version": "b4d4e072d6922a64a2e5db1253483cda4e32ea9d"
   },
   {
     "@context": {
