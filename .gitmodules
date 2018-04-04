@@ -10,3 +10,6 @@
 [submodule "gobbini"]
 	path = gobbini
 	url = ./gobbini
+[submodule "openneurolab"]
+	path = openneurolab
+	url = ./openneurolab
