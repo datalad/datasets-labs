@@ -1,0 +1,32 @@
+[
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "daae98c2-1670-11e8-93d9-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "2e942ec6-a39d-4bc8-9c04-20218d405c9b",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/openneurolab"
+      },
+      {
+        "@id": "beef7289-2f8c-44a8-b984-b96015ddbe5a",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/openneurolab"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
+    "dcterms:modified": "2018-05-18T10:47:51-04:00",
+    "type": "Dataset",
+    "version": "468ffb9dc2864d8fd9026c368a1cede5c1571493"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "daae98c2-1670-11e8-93d9-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  }
+]

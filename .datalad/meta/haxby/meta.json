@@ -7,9 +7,9 @@
     "@id": "01cfb952-8439-11e6-af53-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2018-02-21T16:41:42-05:00",
+    "dcterms:modified": "2018-05-01T01:24:13-04:00",
     "type": "Dataset",
-    "version": "996ba58cdd2f121906f5d4ebf73c371fb35c6676"
+    "version": "bc249505c7b5f400f3b8ec29419e7ebe3a663a9f"
   },
   {
     "@context": {
