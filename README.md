@@ -7,7 +7,7 @@ members and individual labs for consumption through
 [DataLad](http://datalad.org).
 
 Submissions of additional datasets are always welcome in the form of pull
-requests on the GitHub platform at https://github.com/datalad/datasets-labs
+requests on the GitHub platform at https://github.com/datalad/datasets.datalad.org--labs
 
 ## Access
 
