@@ -13,3 +13,6 @@
 [submodule "openneurolab"]
 	path = openneurolab
 	url = ./openneurolab
+[submodule "bmmr"]
+	path = bmmr
+	url = https://github.com/fluese/BMMR_data.git
